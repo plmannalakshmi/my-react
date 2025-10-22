@@ -16,4 +16,39 @@ A simple and intuitive to-do list application that helps users manage their dail
 
 ---
 
+## 🛠 Tech Stack
+
+> Update this section based on what you used.
+
+- **Frontend:** HTML, CSS, JavaScript / React / Vue / Flutter
+- **Backend:** Node.js, Express (optional)
+- **Database:** MongoDB / Firebase / LocalStorage
+
+---
+🗂️ Project Structure
+
+todo-list-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   ├── App.js
+│   └── index.js
+├── .gitignore
+├── package.json
+└── README.md
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the project
+
+Create your feature branch: git checkout -b feature/task-name
+
+Commit your changes: git commit -m "Add new task feature"
+
+Push to the branch: git push origin feature/task-name
+
+Open a Pull Request
 
