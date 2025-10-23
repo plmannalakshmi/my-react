@@ -25,24 +25,6 @@ A simple and intuitive to-do list application that helps users manage their dail
 - **Database:** MongoDB / Firebase / LocalStorage
 
 ---
-🗂️ Project Structure
-
-todo-list-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-└── README.md
-
-📋 Overview
-
-The To-Do List Application is a simple, interactive productivity tool that helps users manage their daily tasks. It allows users to add, edit, complete, and delete tasks in an intuitive and responsive interface.
-
-Whether you're planning your day, tracking homework, or managing a grocery list, this app makes it easy to stay organized and focused.
 
 💡 Key Objectives
 
