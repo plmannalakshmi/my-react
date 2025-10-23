@@ -47,7 +47,7 @@ Project management in small teams
 Shopping lists or reminders
 
 ## 🌐 Live Demo
-[Deployed Link Here](to-do-listapplication-2006.netlify.app)
+to-do-listapplication-2006.netlify.app
 
 
 
